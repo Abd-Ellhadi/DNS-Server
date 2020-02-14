@@ -1,0 +1,4 @@
+www.yahoo.com 127.0.0.1 none
+www.google.com 127.9.9.1 none
+www.fci.com 192.168.10.10 none
+www.ibm.com 192.168.2.149 servereast.backup2.ibm.com
